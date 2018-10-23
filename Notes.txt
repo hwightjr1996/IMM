@@ -1,0 +1,17 @@
+Evan, Harry, Jonah
+Commands:
+	Pwd: shows current directory 
+	LS: Creates a list of everything in directory
+
+	CD: Change Directory
+		CD /(drive): puts you into the drive you want 
+				Eg: cd /d    or cd d:
+	Clear: Clears
+	../ :Goes back one directory
+	~: as if typing home directory
+	Cp: Copies
+		EG: cp filename 
+
+	. can refer to current folder
+Git is a distributed tool, not a centralized tool. This means that when you work on a project that has a repository (a collection of files together) you get a copy 
+	Git init: Creates repository 
